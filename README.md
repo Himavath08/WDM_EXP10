@@ -26,5 +26,9 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+![image](https://github.com/user-attachments/assets/434fa24d-5c86-499d-b481-2eec90230fc0)
+![image](https://github.com/user-attachments/assets/9837eac7-c83b-4e00-b7bf-40efcc7decbf)
+
 
 ### Result:
+Thus Sentimental Analysis for Amazon product reviews is executed successfully using RapidMiner
